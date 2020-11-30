@@ -1,4 +1,5 @@
 # world
+<meta http-equiv="refresh" content="0" />
 
 Data was downloaded from: https://covid.ourworldindata.org/data/ecdc/new_deaths.csv
 
