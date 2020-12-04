@@ -2,7 +2,9 @@
 <meta http-equiv="refresh" content="0" />
 
 Data was downloaded from: 
+
 https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/jhu/new_deaths.csv
+
 https://covid.ourworldindata.org/data/ecdc/new_deaths.csv
 
 In the graph, blue line indicates the prediction using the last 245 days from Nov.23 in 2020 while red line changing the dateset size.
